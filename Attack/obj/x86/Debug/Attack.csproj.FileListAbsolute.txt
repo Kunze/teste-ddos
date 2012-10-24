@@ -1,0 +1,9 @@
+c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Attack\bin\Debug\Attack.exe
+c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Attack\bin\Debug\Attack.pdb
+c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Attack\obj\x86\Debug\Attack.exe
+c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Attack\obj\x86\Debug\Attack.pdb
+c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Attack\obj\x86\Debug\Attack.csprojResolveAssemblyReference.cache
+c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Attack\bin\Debug\Commands.dll
+c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Attack\bin\Debug\Extensions.dll
+c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Attack\bin\Debug\Commands.pdb
+c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Attack\bin\Debug\Extensions.pdb
