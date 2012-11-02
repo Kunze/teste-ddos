@@ -41,7 +41,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseCommand.cs" />
+    <Compile Include="Get\Arguments\Async.cs" />
+    <Compile Include="Get\Arguments\Force.cs" />
+    <Compile Include="Get\Arguments\Forever.cs" />
     <Compile Include="Get\GetCommand.cs" />
+    <Compile Include="Get\Arguments\Randon.cs" />
+    <Compile Include="Get\GetFacade.cs" />
+    <Compile Include="ICommandArgument.cs" />
     <Compile Include="Post\PostCommand.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

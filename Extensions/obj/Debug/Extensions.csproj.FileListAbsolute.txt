@@ -2,3 +2,7 @@ c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Extensions\bi
 c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Extensions\bin\Debug\Extensions.pdb
 c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Extensions\obj\Debug\Extensions.dll
 c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Extensions\obj\Debug\Extensions.pdb
+C:\Users\Murilo\Desktop\attack\teste-ddos\Extensions\bin\Debug\Extensions.dll
+C:\Users\Murilo\Desktop\attack\teste-ddos\Extensions\bin\Debug\Extensions.pdb
+C:\Users\Murilo\Desktop\attack\teste-ddos\Extensions\obj\Debug\Extensions.dll
+C:\Users\Murilo\Desktop\attack\teste-ddos\Extensions\obj\Debug\Extensions.pdb

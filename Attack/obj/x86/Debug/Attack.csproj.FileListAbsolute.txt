@@ -7,3 +7,12 @@ c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Attack\bin\De
 c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Attack\bin\Debug\Extensions.dll
 c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Attack\bin\Debug\Commands.pdb
 c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Attack\bin\Debug\Extensions.pdb
+C:\Users\Murilo\Desktop\attack\teste-ddos\Attack\obj\x86\Debug\Attack.exe
+C:\Users\Murilo\Desktop\attack\teste-ddos\Attack\obj\x86\Debug\Attack.pdb
+C:\Users\Murilo\Desktop\attack\teste-ddos\Attack\bin\Debug\Attack.exe
+C:\Users\Murilo\Desktop\attack\teste-ddos\Attack\bin\Debug\Attack.pdb
+C:\Users\Murilo\Desktop\attack\teste-ddos\Attack\bin\Debug\Commands.dll
+C:\Users\Murilo\Desktop\attack\teste-ddos\Attack\bin\Debug\Extensions.dll
+C:\Users\Murilo\Desktop\attack\teste-ddos\Attack\bin\Debug\Commands.pdb
+C:\Users\Murilo\Desktop\attack\teste-ddos\Attack\bin\Debug\Extensions.pdb
+C:\Users\Murilo\Desktop\attack\teste-ddos\Attack\obj\x86\Debug\Attack.csprojResolveAssemblyReference.cache

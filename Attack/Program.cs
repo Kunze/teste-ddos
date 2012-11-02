@@ -11,7 +11,7 @@ namespace Attack
         {
             if (args.Length == 0)
                 args = Console.ReadLine().ToArgs();
-
+            
             var get = new GetCommand();
             var post = new PostCommand();
 

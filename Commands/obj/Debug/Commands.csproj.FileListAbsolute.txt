@@ -5,3 +5,10 @@ c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Commands\bin\
 c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Commands\bin\Debug\Extensions.pdb
 c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Commands\obj\Debug\Commands.dll
 c:\users\murilo.kenze\documents\visual studio 2010\Projects\Attack\Commands\obj\Debug\Commands.pdb
+C:\Users\Murilo\Desktop\attack\teste-ddos\Commands\bin\Debug\Commands.dll
+C:\Users\Murilo\Desktop\attack\teste-ddos\Commands\bin\Debug\Commands.pdb
+C:\Users\Murilo\Desktop\attack\teste-ddos\Commands\bin\Debug\Extensions.dll
+C:\Users\Murilo\Desktop\attack\teste-ddos\Commands\bin\Debug\Extensions.pdb
+C:\Users\Murilo\Desktop\attack\teste-ddos\Commands\obj\Debug\Commands.csprojResolveAssemblyReference.cache
+C:\Users\Murilo\Desktop\attack\teste-ddos\Commands\obj\Debug\Commands.dll
+C:\Users\Murilo\Desktop\attack\teste-ddos\Commands\obj\Debug\Commands.pdb
